@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+    
+}
+
+img{
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+    margin: 2.5px;
+}
